@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/wolly/static/js/main.770da404.js",
+    "index.html": "/wolly/index.html",
+    "main.770da404.js.map": "/wolly/static/js/main.770da404.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.770da404.js"
+  ]
+}
